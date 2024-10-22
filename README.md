@@ -53,7 +53,7 @@ Tasks can be categorized by priority:
 | Low | Can be done later, less time-sensitive	 | Green |
 
 
-
+![image alt](https://github.com/A7medYamani/A7medYamani/blob/ebe2e8c138c931172b389063dcadd2120745c595/11.webp)
 
 
 ## Troubleshooting ❓
