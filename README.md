@@ -1,6 +1,6 @@
 # Taskly - Organize Your Day, Your Way 📝
 
-**Taskly** is a lightweight, user-friendly app designed to help individuals manage their daily tasks with ease. Whether you have a busy workday ahead or just a few errands to run, **Taskly** is here to keep you on track. With a simple interface and useful features, it's the perfect tool for staying organized! Let’s explore how **Taskly** works.
+**Taskly** is a lightweight, user-friendly app designed to help individuals manage their daily tasks with ease. Whether you have a busy workday ahead or just a few errands to run, **Taskly** is here to keep you on track. With a simple interface and useful features, it's the perfect tool for staying organized! Let’s explore how `Taskly`  works.
 
 ---
 
@@ -21,7 +21,8 @@ To install **Taskly** on your preferred device, follow these steps:
 1. **Windows**:
    ```bash
    Download the Taskly setup file and run:
-   taskly_setup.exe
+   taskly_setup.exe 
+ 
 
 2. **macOS**:
    ```bash
@@ -63,7 +64,7 @@ Tasks can be categorized by priority:
 
 
 ## Syncing with Other Apps 🔗
-Taskly integrates with several popular apps to make task management seamless:
+`Taskly` integrates with several popular apps to make task management seamless:
 | Application | Description | Link |
 | --- | --- | --- |
 | Google Calendar	| Sync your tasks with your calendar for reminders	 | [Google Calendar](https://calendar.google.com/calendar/u/0/r) |
