@@ -66,6 +66,8 @@ Tasks can be categorized by priority:
 Taskly integrates with several popular apps to make task management seamless:
 | Application | Description | Link |
 | --- | --- | --- |
-| Google Calendar	| Sync your tasks with your calendar for reminders	 | [title](https://www.example.com) |
-
+| Google Calendar	| Sync your tasks with your calendar for reminders	 | [Google Calendar](https://calendar.google.com/calendar/u/0/r) |
+| Microsoft To Do | Import tasks from Microsoft To Do	 | [Microsoft To Do](https://to-do.office.com/tasks/) |
  
+## Conclusion
+With **Taskly**, staying organized has never been easier. Ready to take control of your tasks and boost productivity? Let’s get started!
