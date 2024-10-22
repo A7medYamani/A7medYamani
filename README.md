@@ -62,7 +62,10 @@ Tasks can be categorized by priority:
 - **App crashing:** Try reinstalling the latest version of Taskly or clear the app cache.
 
 
-
-
+## Syncing with Other Apps 🔗
+Taskly integrates with several popular apps to make task management seamless:
+| Application | Description | Link |
+| --- | --- | --- |
+| Google Calendar	| Sync your tasks with your calendar for reminders	 | [title](https://www.example.com) |
 
  
