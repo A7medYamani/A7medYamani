@@ -1,74 +1,42 @@
-# Taskly - Organize Your Day, Your Way 📝
+<div align="center">
 
-**Taskly** is a lightweight, user-friendly app designed to help individuals manage their daily tasks with ease. Whether you have a busy workday ahead or just a few errands to run, **Taskly** is here to keep you on track. With a simple interface and useful features, it's the perfect tool for staying organized! Let’s explore how `Taskly`  works.
+# Hi 👋, I'm Ahmad Yamani
+
+### AI Student @ Umm Al-Qura University (UQU '27)
+*Machine Learning | Deep Learning | Data Science | Problem Solving*
+
+</div>
 
 ---
 
-## Key Features 
+### 📝 About Me
 
-- **Quick Task Creation**: Easily add tasks with a single tap.
-- **Daily Reminders**: Get notified to ensure nothing slips through the cracks.
-- **Priority Levels**: Categorize tasks as High, Medium, or Low priority.
-- **Completion Tracking**: Check off tasks as you finish them and feel accomplished.
-- **Customizable Categories**: Group tasks under different categories for better organization.
+* 🎓 **Education:** Artificial Intelligence Student at **Umm Al-Qura University** (Class of 2027).
+* 🤖 **Focus Areas:** Machine Learning, Deep Learning, Data Science, and Smart Applications.
+* 💡 **Passionate about:** Turning complex ideas into practical AI solutions and continuously learning emerging technologies.
+* 📫 **Reach me:** [a.h.y.12.2012@gmail.com](mailto:a.h.y.12.2012@gmail.com)
 
+---
 
+### 🛠️ Skills & Technologies
 
-## Installation Guide 
+**Programming Languages & Databases:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=sqlite&logoColor=white)
 
-To install **Taskly** on your preferred device, follow these steps:
+**AI & Data Science:**
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Data Science](https://img.shields.io/badge/Data%20Science-11557C?style=for-the-badge&logo=jupyter&logoColor=white)
 
-1. **Windows**:
-   ```bash
-   Download the Taskly setup file and run:
-   taskly_setup.exe 
- 
+**Tools & Environment:**
+![Git](https://img.shields.io/badge/GIT-E44D26?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20CODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
-2. **macOS**:
-   ```bash
-   brew install taskly
+---
 
-3. **Linux**:
-   ```bash
-   sudo apt-get install taskly
+### 🌐 Connect With Me
 
-
- ## User Guide
- - Adding a New Task
-    - To create a task in Taskly, simply:
-      1. Open Taskly
-      2. Click "New Task"
-      3. Enter the task name (e.g., "Finish report")
-      4. Set a due date or reminder (optional)
-      5. Choose a priority level (High, Medium, Low)
-      6. Hit "Save"
-  
-
-  ## Prioritizing Tasks 
-Tasks can be categorized by priority:
-
-| Priority | Description | Color |
-| --- | --- | --- |
-| High | Urgent tasks that need immediate attention | Red |
-| Medium | Important tasks, but not urgent | Yellow |
-| Low | Can be done later, less time-sensitive	 | Green |
-
-
-![image alt](https://github.com/A7medYamani/A7medYamani/blob/ebe2e8c138c931172b389063dcadd2120745c595/11.webp)
-
-
-## Troubleshooting ❓
-- **Task not saving:** Ensure you have enough storage space on your device.
-- **Reminders not showing:** Check your device’s notification settings to ensure Taskly is allowed to send notifications.
-- **App crashing:** Try reinstalling the latest version of Taskly or clear the app cache.
-
-
-## Syncing with Other Apps 🔗
-`Taskly` integrates with several popular apps to make task management seamless:
-| Application | Description | Link |
-| --- | --- | --- |
-| Google Calendar	| Sync your tasks with your calendar for reminders	 | [Google Calendar](https://calendar.google.com/calendar/u/0/r) |
-| Microsoft To Do | Import tasks from Microsoft To Do	 | [Microsoft To Do](https://to-do.office.com/tasks/) |
- 
-## Conclusion
-With **Taskly**, staying organized has never been easier. Ready to take control of your tasks and boost productivity? Let’s get started!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-yamani-90b06a304)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:a.h.y.12.2012@gmail.com)
