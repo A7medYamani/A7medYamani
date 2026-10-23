@@ -14,7 +14,7 @@
 * 🎓 **Education:** Artificial Intelligence Student at **Umm Al-Qura University** (Class of 2027).
 * 🤖 **Focus Areas:** Machine Learning, Deep Learning, Data Science, and Smart Applications.
 * 💡 **Passionate about:** Turning complex ideas into practical AI solutions and continuously learning emerging technologies.
-* 📫 **Reach me:** [a.h.y.12.2012@gmail.com](mailto:a.h.y.12.2012@gmail.com)
+* 📫 **Reach me:** [a.h.y.12.2012@gmail.com](mailto:a.h.y.2005.bus@gmail.com)
 
 ---
 
